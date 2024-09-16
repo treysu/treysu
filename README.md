@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <img src="https://treysullivent.com/img/favicon/android-chrome-192x192.png" width="100"/>
+  
+  <a href="https://treysullivent.com">
+    <img src="https://treysullivent.com/img/favicon/android-chrome-192x192.png" title="TS Logo" alt="TS Logo" width="100"/>
+  </a>
   <div id="badges">
     <a href="https://linkedin.com/in/treysullivent">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,15 +24,15 @@
 </div>
 <div align="center">
 
-### :man_technologist: I'm an Automation Developer with a passion for goofing around on my computer. 
+ ### :man_technologist: I'm an Automation Developer with a passion for goofing around on my computer. 
 
-:seedling: Developing my professional skills in API development, DevOps, and API Management or APIOps
+ :seedling: Developing my professional skills in API development, DevOps, and API Management or APIOps
 
-:zap: In my free time, I automate my life with HomeAssistant and debug my home server
+ :zap: In my free time, I automate my life with HomeAssistant and debug my home server
 
-:flying_disc: Offline I enjoy watching bad movies, playing disc golf, and learning Spanish
+ :flying_disc: Offline I enjoy watching bad movies, playing disc golf, and learning Spanish
 
-🎓 B.S. in Computer Science from the University of Oklahoma
+ 🎓 B.S. in Computer Science from the University of Oklahoma
 
 
 ### :hammer_and_wrench: Languages and Tools 
