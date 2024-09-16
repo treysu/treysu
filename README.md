@@ -28,9 +28,9 @@
 
  :seedling: Developing my professional skills in API development, DevOps, and API Management or APIOps
 
- :zap: In my free time, I automate my life with HomeAssistant and debug my home server
+ :zap: In my free time, I automate my entire life with HomeAssistant and debug my home server
 
- :flying_disc: Offline I enjoy watching bad movies, playing disc golf, and learning Spanish
+ :flying_disc: I enjoy watching bad movies, playing D&D and disc golf, and learning Spanish
 
  🎓 B.S. in Computer Science from the University of Oklahoma
 
