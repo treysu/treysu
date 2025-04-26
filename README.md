@@ -25,13 +25,13 @@
 </div>
 <div align="center">
 
- ### :man_technologist: I'm an Automation Developer with a passion for goofing around on my computer. 
+ ### :man_technologist: I'm a Software Developer with a passion for goofing around on my computer. 
 
- :seedling: I'm currently improving my skills in API development, DevOps, and API Management or APIOps.
+ :seedling: I'm currently improving my full-stack skills in React programming and API development.
 
- :zap: In my free time, I automate my entire life with HomeAssistant and debug my home server.
+ :zap: In my free time, I automate and optimize my life and debug my home server.
 
- :flying_disc: I enjoy watching bad movies, playing D&D and disc golf, and learning Spanish.
+ :flying_disc: I enjoy watching bad movies, playing D&D, and learning new things.
 
  🎓 B.S. in Computer Science from the University of Oklahoma
 
