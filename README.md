@@ -25,31 +25,29 @@
 </div>
 <div align="center">
 
- ### :man_technologist: I'm a Software Developer with a passion for goofing around on my computer. 
+ ### :man_technologist: Full-Stack Developer
 
- :seedling: I'm currently improving my full-stack skills in React programming and API development.
+ :seedling:             Improving my React skills
 
- :zap: In my free time, I automate and optimize my life and debug my home server.
+ :zap:                  Trying to automate my life
 
- :flying_disc: I enjoy watching bad movies, playing D&D, and learning new things.
-
- 🎓 B.S. in Computer Science from the University of Oklahoma
+ 🎓                     B.S. in Computer Science
 
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" title="Power Automate" alt="Power Automate" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://docs.uipath.com/_next/static/media/uipath-reg-logo.ce2dd575.svg" title="UiPath" alt="UiPath" width="80" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/uipath/FA4616" title="UiPath" alt="UiPath" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
 </div>
 
 <!--
